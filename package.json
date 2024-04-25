@@ -1,0 +1,15 @@
+{
+  "name": "nordic-store-master",
+  "version": "1.0.0",
+  "description": "[Nordic Store](https://www.tailwindtoolbox.com/templates/nordic-store) is an open source, nordic inspired e-commerce product listing template for [Tailwind CSS](https://tailwindcss.com/) created by [Tailwind Toolbox](https://www.tailwindtoolbox.com/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
